@@ -8,6 +8,7 @@ A list of startups [headquartered](https://en.wikipedia.org/wiki/Corporate_headq
 ## D - F
 - [Databricks](https://databricks.com/company/careers) | Bangalore | #ApacheSpark #BigData
 - [Dgraph](https://dgraph.io/careers) | Bangalore | #GraphDatabase #GraphQL #NoSQL
+- [Drip Capital](https://www.dripcapital.com/careers) | Mumbai | #Fintech #TradeFinanceSimplified
 - [Drishti](https://drishti.com/careers/) | Bangalore | #ComputerVision #MachineLearning #Manufacturing
 - [Fivetran](https://fivetran.com/careers) | Bangalore | #ETL #DataWarehouse #BigData
 
